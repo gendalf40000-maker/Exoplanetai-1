@@ -1,0 +1,7 @@
+pandas~=2.3.3
+numpy~=2.3.3
+joblib~=1.5.2
+aiohttp~=3.12.15
+fastapi~=0.118.0
+pydantic~=2.11.10
+scikit-learn~=1.7.2
